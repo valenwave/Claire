@@ -1,5 +1,7 @@
 # Referral
 
+- Gemini: g.co/g1referral/8UZT59AY
+
 ## Money
 
 - Robinhood: http://invite.robinhood.com/phid

@@ -7,7 +7,7 @@
 
 ## Gemini
 
-- [ ] Chats: Clear chats that I no longer care about. Use mouse and keyboard.
+- [x] Chats: I have it auto clear chats older than 3 months.
 - [ ] Gems
 
 ## TikTok
