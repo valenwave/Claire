@@ -4,6 +4,8 @@ Open 10:00
 
 Membership Cost: $65
 
+- A check means it is something I need to get.
+
 ## Fridge
 
 - [ ] Eggs
