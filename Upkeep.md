@@ -2,9 +2,16 @@
 
 ## General
 
-[ ] SimpleNote
+- [ ] SimpleNote
+- [ ] Pinterest Boards
 
 ## Gemini
 
-[ ] Chats
-[ ] Gems
+- [ ] Chats: Clear chats that I no longer care about. Use mouse and keyboard.
+- [ ] Gems
+
+## TikTok
+
+- [ ] Follows
+- [ ] Collections
+- [ ] Saves
