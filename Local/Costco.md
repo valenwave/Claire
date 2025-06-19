@@ -35,7 +35,7 @@ Membership Cost: $65
 
 ## Pantry
 
-- [ ] Grain Free Tortilla Chips: Has a nice crisp to it. Good but I don't need to get it again. 
+- [ ] Grain Free Tortilla Chips: Has a nice crisp to it. Good but I don't need to get it again.
 
 ### Canned
 
