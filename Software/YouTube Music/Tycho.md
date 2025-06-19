@@ -1,5 +1,7 @@
 # Tycho
 
+Tags: Non-lyrical. Work. Electronic.
+
 - [Tycho](https://music.youtube.com/channel/UC6M6DgivBo3VHTYDa9BblqQ)
 
 ## Albums
