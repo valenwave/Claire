@@ -46,7 +46,7 @@ Membership Cost: $65
 
 - [ ] Bottles of water
 - [ ] Apple Juice
-- [ ] Soda mini
+- [ ] Soda mini: I still have a couple of each soda. We tend to try to have a no soda in the house rule so I'll be glad when it's all gone.
 - [ ] Pepsi
 - [ ] Cola
 
