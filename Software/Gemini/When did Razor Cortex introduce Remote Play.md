@@ -1,0 +1,3 @@
+Razer officially launched its "PC Remote Play" feature, which integrates with Razer Cortex, on **April 10, 2025**.
+
+The feature was first unveiled in a beta version earlier that year at the Consumer Electronics Show (CES) in January 2025. Following the beta testing period, the full public release on April 10th made the PC-to-mobile streaming platform available for all users on iOS and Android. This allows gamers to stream their PC game library directly to their mobile devices through the Razer Cortex software on their PC.
