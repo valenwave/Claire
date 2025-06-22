@@ -5,3 +5,7 @@ I love the search. I love the quick access to all devices. I use it to write up 
 ## Flaw
 
 Not being able to directly reference a note forces a search pattern and a philosophy for the app. But I do find myself using other apps when a direct link is prefered.
+
+## Tags
+
+- Inventory: Deciding whether I want to keep things in stock.
