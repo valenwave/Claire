@@ -1,3 +1,0 @@
-# Cereal
-
-- Honey Nut Cheerios
