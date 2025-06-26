@@ -1,4 +1,4 @@
-# Lego Collection
+# Lego Collection / Wishlist
 
 - [x] [10795: Crafting with Baby Box](https://www.lego.com/en-us/product/crafting-with-baby-box-10795) - $14.99
 - [x] [30662: Maple's Pumpkin Garden](https://www.lego.com/en-us/product/maple-s-pumpkin-garden-beach-cleanup-30662) - $4.99
@@ -7,7 +7,8 @@
 
 ## Sonic the Hedgehog
 
-- [ ] [77002: Cyclone vs. Metal Sonic](https://www.lego.com/en-us/product/cyclone-vs-metal-sonic-77002) - $29.99
+- [x] [77001: Sonic's Campfire Clash](https://www.lego.com/en-us/product/sonic-s-campfire-clash-77001) - $19.99
+- [x] [77002: Cyclone vs. Metal Sonic](https://www.lego.com/en-us/product/cyclone-vs-metal-sonic-77002) - $29.99
 - [x] [77003: Super Shadow vs. Biolizard](https://www.lego.com/en-us/product/super-shadow-vs-biolizard-77003) - $44.99
 
 ## Animal Crossing
